@@ -37,6 +37,7 @@ panorama_6835E729_665D_0700_41CC_A5875FAF36BA.label = Hall rampa pizza
 panorama_9CD68D62_8C35_EA1F_41D8_0636B86A7CCC.label = Jabuticabeira
 panorama_9D87FDE8_8C34_E5EA_41DF_6A8D75F54432.label = Jardim De Entrada
 panorama_9CB6ADB7_8C34_AA65_41B3_4D8AF8FA3E0E.label = Lago carpas
+video_5903FD7E_4929_5E6B_41C2_0788D0A0EBFF.label = Logo 3D Achado Digital
 panorama_68354D7E_665D_0B00_41A4_87230C2D3EB7.label = Mesas banco 1
 panorama_6835DB70_665D_0F00_41AD_BF65D6792949.label = Mesas banco 2
 panorama_AA6C6D34_81F2_5D27_41D8_B07AF937AD67.label = SAM_100_0114
@@ -57,6 +58,14 @@ panorama_683A020C_6655_3900_41CB_432A81D9ABA4.label = lateral faxada 2
 panorama_9C08C4F2_8C34_5BFC_41D8_D6A2320E9D8E.label = mesa redonda rampa pizza
 panorama_9CD18F3C_8C34_666B_41C2_AAD13F5334F0.label = passarela hall banheiros
 panorama_9C471BCE_8C3B_AE27_41AB_6D96B54BB4E6.label = proximo entrada parquinho
+
+### Video
+videolevel_592451B8_4958_E6F7_41D1_AC1BC669814E.posterURL = media/video_5903FD7E_4929_5E6B_41C2_0788D0A0EBFF_poster_pt.jpg
+videolevel_46E3A52B_4958_AFE9_41CD_83E33E8D5A42.posterURL = media/video_5903FD7E_4929_5E6B_41C2_0788D0A0EBFF_poster_pt.jpg
+videolevel_46E3A52B_4958_AFE9_41CD_83E33E8D5A42.url = media/video_5903FD7E_4929_5E6B_41C2_0788D0A0EBFF_pt.m3u8
+videolevel_592451B8_4958_E6F7_41D1_AC1BC669814E.url = media/video_5903FD7E_4929_5E6B_41C2_0788D0A0EBFF_pt.mp4
+
+### Video Subtitles
 
 ## Skin
 
